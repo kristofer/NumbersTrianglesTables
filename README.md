@@ -71,7 +71,7 @@ But notice how you have to layout the initialization of the `i` variable and als
 
 ## One of the things to note about this lab
 
-The description of th eloops and what they produce is somewhat vague. (Welcome to software coding). So, you will have to make some decisions about what the loops should do. And, you will have to make sure that your loops do what you think they should do. Be carefule with where they start and where they end. And, be careful with what they do inside the loop.
+The description of the loops and what they produce is somewhat vague. (Welcome to software coding). So, you will have to make some decisions about what the loops should do. And, you will have to make sure that your loops do what you think they should do. Be carefule with where they start and where they end. And, be careful with what they do inside the loop.
 
 Think it thru, what should each method do? What should it return? What should it print? What should it not print? What should it not return? What should it not do?
 
